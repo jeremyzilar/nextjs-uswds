@@ -1,8 +1,8 @@
 # Next.js + Styled Components + USWDS
 
-This is a [Next.js](https://nextjs.org/) project that utilizes [Styled Components](https://styled-components.com/) and the [U.S. Web Design System](https://designsystem.digital.gov/).
+This is a [**Next.js**](https://nextjs.org/) project that utilizes [**Styled Components**](https://styled-components.com/) and the [**U.S. Web Design System**](https://designsystem.digital.gov/).
 
-My goal is to figure out the best way to include the USWDS as global styles as styled components.
+This is a demo repo aimed at exploring the best way to use Styled Components along with the USWDS in a react based site or application.
 
 ---
 
@@ -15,6 +15,8 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+---
 
 ## Styled Components :nail_care:
 
