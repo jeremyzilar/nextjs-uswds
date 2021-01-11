@@ -1,8 +1,6 @@
 # Next.js + Styled Components + USWDS
 
-This is a [**Next.js**](https://nextjs.org/) project that utilizes [**Styled Components**](https://styled-components.com/) and the [**U.S. Web Design System**](https://designsystem.digital.gov/).
-
-This is a demo repo aimed at exploring the best way to use Styled Components along with the USWDS in a react based site or application.
+This is a demo project aimed at exploring the best way to use [**Styled Components**](https://styled-components.com/) along with the [**U.S. Web Design System**](https://designsystem.digital.gov/) (USWDS) in a [**Next.js**](https://nextjs.org/) application.
 
 ---
 
