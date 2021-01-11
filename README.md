@@ -2,7 +2,12 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) that utilizes the [U.S. Web Design System](https://designsystem.digital.gov/).
 
-My goal is to figure out the best way to include the USWDS as global style and as CSS modules for specific components.
+My goal is to figure out the best way to include the USWDS as global styles as styled components.
+
+**Background reading:**
+- Why we chose Styled Components over Sass and CSS Modules https://www.takeshape.io/articles/why-we-chose-styled-components-over-sass-and-css-modules/
+- Style Components https://styled-components.com/
+
 ## Getting Started
 
 First, run the development server:
@@ -14,7 +19,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## Learn more about USWDS
+## About the USWDS
 
 To learn more about the [**U.S. Web Design Sytem (USWDS)**](https://designsystem.digital.gov/), take a look at the following resources:
 
