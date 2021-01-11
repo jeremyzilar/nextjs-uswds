@@ -4,9 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 My goal is to figure out the best way to include the USWDS as global styles as styled components.
 
-**Background reading:**
-- Why we chose Styled Components over Sass and CSS Modules https://www.takeshape.io/articles/why-we-chose-styled-components-over-sass-and-css-modules/
-- Style Components https://styled-components.com/
+---
 
 ## Getting Started
 
@@ -17,6 +15,13 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+## Styled components
+- [Styled Components](https://styled-components.com/)
+- [Why we chose Styled Components over Sass and CSS Modules](https://www.takeshape.io/articles/why-we-chose-styled-components-over-sass-and-css-modules/)
+- [Styled Components: To Use or Not to Use?](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21)
+
 
 
 ## About the USWDS
