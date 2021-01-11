@@ -1,0 +1,52 @@
+/*! uswds @version */
+
+/*
+========================================
+uswds.scss
+----------------------------------------
+Output all USWDS
+- fonts
+- components
+- utilities
+- layout grid
+----------------------------------------
+*/
+
+// Custom Variables
+// -------------------------------------
+// @import 'uswds-settings';
+
+// Settings
+// -------------------------------------
+@import "uswds/uswds-theme-general";
+@import "uswds/uswds-theme-typography";
+@import "uswds/uswds-theme-spacing";
+@import "uswds/uswds-theme-color";
+@import "uswds/uswds-theme-utilities";
+
+// @import 'settings/settings-general';
+// @import 'settings/settings-typography';
+// @import 'settings/settings-color';
+// @import 'settings/settings-spacing';
+// @import 'settings/settings-utilities';
+// @import 'settings/settings-components';
+
+// Required packages
+// -------------------------------------
+@import 'packages/required';
+@import 'packages/global';
+
+
+
+// Typography
+// -------------------------------------
+@import 'packages/typography';
+
+// Layout grid
+// -------------------------------------
+@import 'packages/layout-grid';
+
+// Utilities
+// -------------------------------------
+@import 'packages/uswds-utilities';
+
