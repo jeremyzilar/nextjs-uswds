@@ -1,4 +1,4 @@
-# Next.js + USWDS
+# Next.js + Styled Components + USWDS
 
 This is a [Next.js](https://nextjs.org/) project that utilizes [Styled Components](https://styled-components.com/) and the [U.S. Web Design System](https://designsystem.digital.gov/).
 
